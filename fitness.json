@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Seated Shoulder Press",
+		"category": "Arms",
+		"details": "The seated shoulder press will help extend the arms overhead with",
+		"muscles": "any",
+		"imageurl": "https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg",
+	
+	},
+	{
+		"name": "Sit-to-Stands (aka Chair Squat)",
+		"category": "Legs",
+		"details": "This exercise should be started off with the older adult’s own body weight",
+		"muscles": "all",
+		"imageurl": "https://raw.githubusercontent.com/DevTides/DogsApi/master/2.jpg",
+	
+	},
+	{
+		"name": "Heel Slides",
+		"category": "legs",
+		"details": "If a senior does have knee pain, they should keep the pressure",
+		"muscles": "Stuff",
+		"imageurl": "https://raw.githubusercontent.com/DevTides/DogsApi/master/3.jpg",
+	
+	},
+	{
+		"name": "Isolated Tricep Extensions",
+		"category": "legs",
+		"details": "all of the deets",
+		"muscles": "every",
+		"imageurl": "https://raw.githubusercontent.com/DevTides/DogsApi/master/4.jpg",
+	
+	}
+]
