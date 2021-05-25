@@ -1,38 +1,38 @@
 
-{"categories":[{"name":"Movies","videos":[{"description":"Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+{"categories":[{"name":"Movies","videos":[{"description":"The seated shoulder press will help extend the arms overhead with",
                "sources":[
                   "https://raw.githubusercontent.com/Fitness-excercise/excer/main/girlgym.mp4"
                ],
                "subtitle":"By Blender Foundation",
                "thumb":"https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg",
-               "title":"Big Buck Bunny"
+               "title":"Seated Shoulder Press"
             },
             {
-               "description":"The first Blender Open Movie from 2006",
+               "description":"This exercise should be started off with the older adult’s own body weight",
                "sources":[
                   "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
                ],
-               "subtitle":"By Blender Foundation",
+               "subtitle":"Legs",
                "thumb":"https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg",
-               "title":"Elephant Dream"
+               "title":"Sit-to-Stands (aka Chair Squat)"
             },
             {
-               "description":"HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.\nLearn how to use Chromecast with HBO GO and more at google.com/chromecast.",
+               "description":"If a senior does have knee pain, they should keep the pressure",
                "sources":[
                   "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                ],
-               "subtitle":"By Google",
+               "subtitle":"legs",
                "thumb":"https://raw.githubusercontent.com/DevTides/DogsApi/master/1.jpg",
-               "title":"For Bigger Blazes"
+               "title":"Heel Slides"
             },
             {
-               "description":"Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+               "description":"all of the deets",
                "sources":[
                   "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
                ],
-               "subtitle":"By Google",
+               "subtitle":"legs",
                "thumb":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
-               "title":"For Bigger Escape"
+               "title":"Isolated Tricep Extensions"
             },
             {
                "description":"Introducing Chromecast. The easiest way to enjoy online video and music on your TV. For $35. Find out more at google.com/chromecast.",
@@ -119,6 +119,11 @@
       }
    ]
 }
+
+
+
+
+
 
 
 
