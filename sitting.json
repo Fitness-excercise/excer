@@ -1,0 +1,103 @@
+
+{"categories":[{"name":"Workouts","videos":[{"description":"Sit upright and away from the back of the chair. Pull your shoulders back and down. Extend your arms out to the side. Gently push your chest forward and up until you feel a stretch across your chest.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitChestStretch.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitChestStretch.JPG",
+               "title":"Chest stretch"
+            },
+            {
+               "description":"Start by crossing your right foot over your left. Bring your left foot to join it. Attempt 5 cross-steps on each side.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/simpleGrapvine.mp4"
+               ],
+               "subtitle":"Balance exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/grapvine.JPG",
+               "title":"Simple grapevine"
+            },
+            {
+               "description":"Standing upright, place your right heel on the floor directly in front of your left toe. Then do the same with your left heel. Make sure you keep looking forward at all times. If necessary, put your fingers against a wall for stability.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/HeeltoToe Walk.mp4"
+               ],
+               "subtitle":"Balance exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/heelToToe.JPG",
+               "title":"Heel-to-toe walk"
+            },
+            {
+               "description":"Step up with your right leg. Bring your left leg up to join it. Step down again and return to the start position.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/stepup.mp4"
+               ],
+               "subtitle":"Balance exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/Stepup.JPG",
+               "title":"Step-up"
+            },
+            {
+               "description":"Start by standing facing the wall, with arms outstretched and your fingertips touching the wall. Lift your left leg, keep your hips level and keep a slight bend in the opposite leg. Gently place your foot back on the floor.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/onelegstand.mp4"
+               ],
+               "subtitle":"Balance exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/one-leg-stand.jpg",
+               "title":"One-leg stand"
+            },
+            {
+               "description":"Sit on the edge of the chair, feet hip-width apart. Lean slightly forwards. Stand up slowly using your legs, not arms. Keep looking forward and do not look down. Stand upright and then slowly sit down, bottom-first.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitToStand.mp4"
+               ],
+               "subtitle":"Strength exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitToStand.JPG",
+               "title":"Sit-to-stand"
+            },
+            {
+               "description":"Rest your hands on the back of the chair for stability and stand with your feet hip-width apart. Slowly bend your knees as far as is comfortable, keeping them facing forwards. Aim to get them over your big toe. Keep your back straight at all times.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/miniSquat.mp4"
+               ],
+               "subtitle":"Strength exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/miniSquats.JPG",
+               "title":"Mini-squats"
+            },
+            {
+               "description":"Rest your hands on the back of a chair for stability. Lift both heels off the floor as far as is comfortable. The movement should be slow and controlled.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/CalfRaises.mp4"
+               ],
+               "subtitle":"Strength exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/calfRaises.JPG",
+               "title":"Calf raises"
+            },
+            {
+               "description":"Rest your hands on the back of a chair for stability. Raise your left leg to the side as far as is comfortable, keeping your back and hips straight. Avoid tilting to the right. Return to the starting position. Now raise your right leg to the side as far as possible.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/SideLegLift.mp4"
+               ],
+               "subtitle":"Strength exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sidewaysLeglift.JPG",
+               "title":"Sideways leg lift"
+            },
+            {
+               "description":"Rest your hands on the back of a chair for stability. Standing upright, raise your left leg backwards, keeping it straight. Avoid arching your back as you take your leg back. You should feel the effort in the back of your thigh and bottom. Repeat with the right leg.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/legExtension.mp4"
+               ],
+               "subtitle":"By Blender Foundation",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/legExtension.JPG",
+               "title":"Leg extension"
+            },
+            {
+               "description":"Hold a pair of light weights (filled water bottles will do) and stand with your feet hip-width apart. Keeping your arms by your side, slowly bend them until the weight in your hand reaches your shoulder. Slowly lower again.",
+               "sources":[
+                  "http://raw.githubusercontent.com/Fitness-excercise/excer/main/bicepcurls.mp4"
+               ],
+               "subtitle":"By Garage419",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/bicepCurls.JPG",
+               "title":"Biceps curls"
+            }
+         ]
+      }
+   ]
+}
