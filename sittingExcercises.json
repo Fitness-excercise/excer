@@ -1,0 +1,57 @@
+
+{"categories":[{"name":"Workouts","videos":[{"description":"Sit upright and away from the back of the chair. Pull your shoulders back and down. Extend your arms out to the side. Gently push your chest forward and up until you feel a stretch across your chest.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitChestStretch.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitChestStretch.JPG",
+               "title":"Chest stretch"
+            },
+            {
+               "description":"Sit upright with your feet flat on the floor, cross your arms and reach for your shoulders. Without moving your hips, turn your upper body to the left as far as is comfortable. Hold for 5 seconds.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitBodyTwist.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitBodyTwist.JPG",
+               "title":"Upper-body twist"
+            },
+            {
+               "description":"Sit upright and do not lean on the back of the chair. Hold on to the sides of the chair. Lift your left leg with your knee bent as far as is comfortable. Place your foot down with control.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitHipMarch.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitHipMarch.JPG",
+               "title":"Hip marching"
+            },
+            {
+               "description":"Sit upright, hold on to the side of the chair and straighten your left leg with your foot off the floor. With your leg straight and raised, point your toes away from you. Point your toes back towards you.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitAnkleStretch.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitAnkleStretch.JPG",
+               "title":"Ankle stretch"
+            },
+			{
+               "description":"Sit upright with your shoulders down. Look straight ahead. Slowly turn your head towards your left shoulder as far as is comfortable. Hold for 5 seconds and return to the starting position.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitNeckRotation.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitNeckRotation.JPG",
+               "title":"Neck rotation"
+            },
+            {
+               "description":"Sit upright with your arms by your sides. With palms forwards, raise both arms out and to the side, and up as far as is comfortable. Return to the starting position.",
+               "sources":[
+                  "https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitArmRaise.mp4"
+               ],
+               "subtitle":"Sitting exercises",
+               "thumb":"https://raw.githubusercontent.com/Fitness-excercise/excer/main/sitArmRaise.JPG",
+               "title":"Arm raises"
+            },
+         ]
+      }
+   ]
